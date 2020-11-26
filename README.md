@@ -30,10 +30,6 @@ The evolution rules are as follows:
 9.  The stronger the wind, the further the fire can spread.
 10.  Trees can't grow in water: water stops fire, except if the wind is strong enough.
 
-## Pygame interface
-
-![Pygame interface](images/interface.png)
-
 ## Files and folders
 
 - grid.py: implements data structures for a plane
